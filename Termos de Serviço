@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Termos de Serviço - Gengar Bot</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #0e0e10;
+      color: #ffffff;
+      padding: 2rem;
+      line-height: 1.6;
+    }
+    h1, h2 {
+      color: #8e44ad;
+    }
+    section {
+      margin-bottom: 3rem;
+    }
+    ol {
+      padding-left: 1.5rem;
+    }
+    li {
+      margin-bottom: 1rem;
+    }
+    strong {
+      color: #b49dd8;
+    }
+  </style>
+</head>
+<body>
+  <h1>Termos de Serviço – Gengar Bot</h1>
+  <p><strong>Última atualização:</strong> 21 de maio de 2025</p>
+  <section>
+    <ol>
+      <li><strong>Uso Responsável:</strong> Você concorda em utilizar o bot de forma ética, respeitando os Termos de Serviço do Discord e as regras do servidor onde o bot está instalado.</li>
+      <li><strong>Funcionalidades:</strong> O Gengar Bot oferece recursos como registro de mensagens editadas e deletadas, monitoramento de atividades em canais de voz, notificações de entrada e saída de membros, registro de punições e criação automática de canais temporários de voz.</li>
+      <li><strong>Restrições:</strong> É proibido utilizar o bot para atividades ilegais, abusivas, discriminatórias ou que infrinjam direitos de terceiros.</li>
+      <li><strong>Disponibilidade:</strong> O bot pode ser desligado temporariamente ou permanentemente a qualquer momento, sem aviso prévio.</li>
+      <li><strong>Modificações:</strong> Estes termos podem ser alterados a qualquer momento. Recomendamos que você revise-os periodicamente.</li>
+      <li><strong>Responsabilidade:</strong> Os administradores do servidor são responsáveis pelo uso adequado do bot. Os desenvolvedores do Gengar Bot não se responsabilizam por danos decorrentes de mau uso.</li>
+      <li><strong>Suporte:</strong> O suporte ao usuário pode ser oferecido via canais oficiais do servidor ou repositório do bot, mas não garante correções imediatas.</li>
+      <li><strong>Rescisão:</strong> O uso do bot pode ser revogado a qualquer momento, especialmente em caso de violação destes termos.</li>
+    </ol>
+  </section>
+</body>
+</html>
